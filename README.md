@@ -24,4 +24,4 @@ cat - read file and write to standard output
 Additionally, once the game begins, you can use the custom function 'check_commands' to display a list of all the commands used in the game.
 
 ## Screenshot
- 
+![cave-image](https://github.com/user-attachments/assets/dea98c93-8000-49a5-88e9-68b6a02e769b) 
