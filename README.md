@@ -10,6 +10,8 @@ The game can run on a Unix/Linux system. Unzip the tarball and then navigate to 
 
 To unzip the file, navigate to the directory containing cave_game.tgz and type the following command in the terminal: "tar -xvzf cave_game.tgz"
 
+For those who don't have a Linux system or want an alternative to running it on their system, you can make a free account on cocalc.com and use the Linux terminal there to unzip and run it.
+
 ## Controls
 Because it's an educational game to teach bash, most of the commands are taught in-game but some are necessary to know beforehand:
 
